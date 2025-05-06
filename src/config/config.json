@@ -1,0 +1,6 @@
+{
+    "ticketStream": true,
+    "callStream": false,
+    "deleteGeneratedCalls": false,
+    "user": "ealive.user"
+}
