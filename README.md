@@ -1,7 +1,8 @@
+
 # evaluAgent live Stream and Injection Management Tool
 
 **Author**: Chris Mounce
-**Current Version:** v1.1.4
+**Current Version:** v2
 
 ## Overview
 
@@ -126,6 +127,10 @@ This project provides a tool for managing conversation streams in evaluagent con
   - `gtts`
   - `inquirer`
   - `uuid`
+
+```
+npm install axios chalk winston ffmpeg-static gtts inquirer uuid
+```
 
 ---
 
