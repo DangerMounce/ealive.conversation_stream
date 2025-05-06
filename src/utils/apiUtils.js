@@ -16,7 +16,7 @@ let agentRoleId
 let agentList
 // Make API call to evaluagent
 async function fetchApi(endpoint, apiKey) {
-    const apiUrl = "https://api.uat-3.evaluagent.co/v1";
+    const apiUrl = "https://api.evaluagent.com/v1";
     const url = `${apiUrl}${endpoint}`;
     try {
         const response = await axios.get(url, {
